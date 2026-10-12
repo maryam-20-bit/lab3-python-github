@@ -29,7 +29,7 @@ def show_menu():
     print("3. Multiplication")
     print("4. Division")
     print("5. Check Even/Odd")
-    print("6. Claculate Percentage")
+    print("6. Calculate Percentage")
     print("7. Exit")
 
 def main():
